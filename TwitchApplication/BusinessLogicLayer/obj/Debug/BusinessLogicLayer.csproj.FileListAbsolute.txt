@@ -1,0 +1,14 @@
+D:\Dropbox\Project\C#\TwitchApplication\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+D:\Dropbox\Project\C#\TwitchApplication\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+D:\Dropbox\Project\C#\TwitchApplication\BusinessLogicLayer\bin\Debug\BusinessObjectLayer.dll
+D:\Dropbox\Project\C#\TwitchApplication\BusinessLogicLayer\bin\Debug\BusinessObjectLayer.pdb
+D:\Dropbox\Project\C#\TwitchApplication\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+D:\Dropbox\Project\C#\TwitchApplication\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+E:\Dropbox\Project\C#\TwitchApplication\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+E:\Dropbox\Project\C#\TwitchApplication\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+E:\Dropbox\Project\C#\TwitchApplication\BusinessLogicLayer\bin\Debug\BusinessObjectLayer.dll
+E:\Dropbox\Project\C#\TwitchApplication\BusinessLogicLayer\bin\Debug\BusinessObjectLayer.pdb
+E:\Dropbox\Project\C#\TwitchApplication\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+E:\Dropbox\Project\C#\TwitchApplication\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+E:\Dropbox\Project\C#\TwitchApplication\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+D:\Dropbox\Project\C#\TwitchApplication\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache

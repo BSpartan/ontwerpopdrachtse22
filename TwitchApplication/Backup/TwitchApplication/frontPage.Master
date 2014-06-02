@@ -1,0 +1,51 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="frontPage.Master.cs" Inherits="TwitchApplication.master" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css" type="text/css" />
+    <link rel="stylesheet" href="assets/css/bootstrap-theme.min.css" type="text/css" />
+    <link rel="stylesheet" href="assets/css/dashboard.css" type="text/css" />
+    <link rel="stylesheet" href="assets/css/homepage.css" type="text/css" />
+
+    <script  src="assets/js/jquery-2.1.1.min.js" type="text/javascript"></script>
+    <script  src="assets/js/bootstrap.min.js" type="text/javascript"></script>
+    
+
+</head>
+<body>
+
+    <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="#"><img src="http://www-cdn.jtvnw.net/images/xarth/header_logo.png" alt="Twitch"></a>
+        </div>
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav navbar-right">
+            <li><a href="#">Browse</a></li>
+            <li><a href="#">Log In</a></li>
+            <li><a href="#">Sign up</a></li>
+            <li><a></a></li>
+          </ul>
+          <form class="navbar-form navbar-right">
+            <input type="text" class="form-control" placeholder="Search...">
+          </form>
+        </div>
+      </div>
+    </div>
+    
+    <div class="wrapper">
+        <asp:ContentPlaceHolder ID="frontPageContent" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+  </body>
+</html>

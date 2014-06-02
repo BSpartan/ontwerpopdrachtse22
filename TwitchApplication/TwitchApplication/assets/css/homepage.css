@@ -1,0 +1,76 @@
+﻿.planned-channels {
+    background: none repeat scroll 0 0 gainsboro;
+    overflow: hidden;
+    position: relative;
+}
+
+.planned-channels-inner {
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+
+.planned-channels-mainchannel
+{
+    position: relative;
+}
+
+.planned-channels-mainchannel-left
+{
+    float: left;
+    width: 600px;
+    height: 400px;
+    background-color: blue;
+}
+
+.planned-channels-mainchannel-right
+{
+    float: left;
+    width: 298px;
+    height: 400px;
+    background-color: red;
+}
+
+.planned-channels-allchannels
+{
+    position: relative;
+    margin-top: 50px;
+}
+
+.planned-channels-allchannels a
+{
+    float: left;
+    width: 133px;
+    margin-right: 20px;
+    height: 75px;
+    background-color: green;
+}
+
+.login-pannel 
+{
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    visibility: visible;
+    top: 100px;
+    right: 900px;
+    
+}
+
+.login-pannel h3
+{
+    position: relative;
+    float: left;
+    min-width: 250px;
+    max-width: 250px;
+}
+
+.login-pannel a
+{
+    position: relative;
+}
+
+.login-pannel p 
+{
+    padding: 15px;
+}

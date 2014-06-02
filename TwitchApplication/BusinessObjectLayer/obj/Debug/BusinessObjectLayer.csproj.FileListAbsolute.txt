@@ -1,0 +1,8 @@
+D:\Dropbox\Project\C#\TwitchApplication\BusinessObjectLayer\bin\Debug\BusinessObjectLayer.dll
+D:\Dropbox\Project\C#\TwitchApplication\BusinessObjectLayer\bin\Debug\BusinessObjectLayer.pdb
+D:\Dropbox\Project\C#\TwitchApplication\BusinessObjectLayer\obj\Debug\BusinessObjectLayer.dll
+D:\Dropbox\Project\C#\TwitchApplication\BusinessObjectLayer\obj\Debug\BusinessObjectLayer.pdb
+E:\Dropbox\Project\C#\TwitchApplication\BusinessObjectLayer\bin\Debug\BusinessObjectLayer.dll
+E:\Dropbox\Project\C#\TwitchApplication\BusinessObjectLayer\bin\Debug\BusinessObjectLayer.pdb
+E:\Dropbox\Project\C#\TwitchApplication\BusinessObjectLayer\obj\Debug\BusinessObjectLayer.dll
+E:\Dropbox\Project\C#\TwitchApplication\BusinessObjectLayer\obj\Debug\BusinessObjectLayer.pdb

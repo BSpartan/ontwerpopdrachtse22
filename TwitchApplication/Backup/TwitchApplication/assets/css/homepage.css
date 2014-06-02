@@ -1,0 +1,40 @@
+﻿.planned-channels {
+    background: none repeat scroll 0 0 gainsboro;
+    overflow: hidden;
+    position: relative;
+}
+
+.planned-channels-inner {
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+
+.login-pannel 
+{
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    visibility: visible;
+    top: 100px;
+    right: 900px;
+    
+}
+
+.login-pannel h3
+{
+    position: relative;
+    float: left;
+    min-width: 250px;
+    max-width: 250px;
+}
+
+.login-pannel a
+{
+    position: relative;
+}
+
+.login-pannel p 
+{
+    padding: 15px;
+}

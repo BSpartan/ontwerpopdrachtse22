@@ -1,0 +1,16 @@
+D:\Dropbox\Project\C#\TwitchApplication\DataAccessLayer\bin\Release\DataAccessLayer.dll
+D:\Dropbox\Project\C#\TwitchApplication\DataAccessLayer\bin\Release\DataAccessLayer.pdb
+D:\Dropbox\Project\C#\TwitchApplication\DataAccessLayer\bin\Release\BusinessObjectLayer.dll
+D:\Dropbox\Project\C#\TwitchApplication\DataAccessLayer\bin\Release\Oracle.DataAccess.dll
+D:\Dropbox\Project\C#\TwitchApplication\DataAccessLayer\bin\Release\BusinessObjectLayer.pdb
+D:\Dropbox\Project\C#\TwitchApplication\DataAccessLayer\obj\Release\DataAccessLayer.csprojResolveAssemblyReference.cache
+D:\Dropbox\Project\C#\TwitchApplication\DataAccessLayer\obj\Release\DataAccessLayer.dll
+D:\Dropbox\Project\C#\TwitchApplication\DataAccessLayer\obj\Release\DataAccessLayer.pdb
+E:\Dropbox\Project\C#\TwitchApplication\DataAccessLayer\bin\Release\DataAccessLayer.dll
+E:\Dropbox\Project\C#\TwitchApplication\DataAccessLayer\bin\Release\DataAccessLayer.pdb
+E:\Dropbox\Project\C#\TwitchApplication\DataAccessLayer\bin\Release\BusinessObjectLayer.dll
+E:\Dropbox\Project\C#\TwitchApplication\DataAccessLayer\bin\Release\Oracle.DataAccess.dll
+E:\Dropbox\Project\C#\TwitchApplication\DataAccessLayer\bin\Release\BusinessObjectLayer.pdb
+E:\Dropbox\Project\C#\TwitchApplication\DataAccessLayer\obj\Release\DataAccessLayer.csprojResolveAssemblyReference.cache
+E:\Dropbox\Project\C#\TwitchApplication\DataAccessLayer\obj\Release\DataAccessLayer.dll
+E:\Dropbox\Project\C#\TwitchApplication\DataAccessLayer\obj\Release\DataAccessLayer.pdb

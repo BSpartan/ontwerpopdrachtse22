@@ -1,0 +1,13 @@
+D:\Dropbox\Project\C#\TwitchApplication\BusinessObjectLayer\bin\Release\BusinessObjectLayer.dll
+D:\Dropbox\Project\C#\TwitchApplication\BusinessObjectLayer\bin\Release\BusinessObjectLayer.pdb
+D:\Dropbox\Project\C#\TwitchApplication\BusinessObjectLayer\obj\Release\BusinessObjectLayer.dll
+D:\Dropbox\Project\C#\TwitchApplication\BusinessObjectLayer\obj\Release\BusinessObjectLayer.pdb
+E:\Dropbox\Project\C#\TwitchApplication\BusinessObjectLayer\bin\Release\BusinessObjectLayer.dll
+E:\Dropbox\Project\C#\TwitchApplication\BusinessObjectLayer\bin\Release\BusinessObjectLayer.pdb
+E:\Dropbox\Project\C#\TwitchApplication\BusinessObjectLayer\obj\Release\BusinessObjectLayer.dll
+E:\Dropbox\Project\C#\TwitchApplication\BusinessObjectLayer\obj\Release\BusinessObjectLayer.pdb
+C:\Users\Bjork\Documents\GitHub\ontwerpopdrachtse22\TwitchApplication\BusinessObjectLayer\bin\Release\BusinessObjectLayer.dll
+C:\Users\Bjork\Documents\GitHub\ontwerpopdrachtse22\TwitchApplication\BusinessObjectLayer\bin\Release\BusinessObjectLayer.pdb
+C:\Users\Bjork\Documents\GitHub\ontwerpopdrachtse22\TwitchApplication\BusinessObjectLayer\obj\Release\BusinessObjectLayer.csprojResolveAssemblyReference.cache
+C:\Users\Bjork\Documents\GitHub\ontwerpopdrachtse22\TwitchApplication\BusinessObjectLayer\obj\Release\BusinessObjectLayer.dll
+C:\Users\Bjork\Documents\GitHub\ontwerpopdrachtse22\TwitchApplication\BusinessObjectLayer\obj\Release\BusinessObjectLayer.pdb
