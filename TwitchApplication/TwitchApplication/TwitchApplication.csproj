@@ -19,6 +19,11 @@
     <UpgradeBackupLocation>
     </UpgradeBackupLocation>
     <OldToolsVersion>4.0</OldToolsVersion>
+    <UseIISExpress>false</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -64,7 +69,7 @@
     <Content Include="assets\js\bootstrap.min.js" />
     <Content Include="assets\js\jquery-2.1.1.min.js" />
     <Content Include="default.aspx" />
-    <Content Include="games.aspx" />
+    <Content Include="views\games.aspx" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -74,11 +79,11 @@
     </Content>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="games.aspx.cs">
+    <Compile Include="views\games.aspx.cs">
       <DependentUpon>games.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="games.aspx.designer.cs">
+    <Compile Include="views\games.aspx.designer.cs">
       <DependentUpon>games.aspx</DependentUpon>
     </Compile>
     <Compile Include="sideBar.Master.cs">

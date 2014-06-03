@@ -4,7 +4,11 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-    <title></title>
+    <title>
+        <asp:ContentPlaceHolder ID="titleContent" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </title>
     <link rel="stylesheet" href="assets/css/bootstrap.min.css" type="text/css" />
     <link rel="stylesheet" href="assets/css/bootstrap-theme.min.css" type="text/css" />
     <link rel="stylesheet" href="assets/css/dashboard.css" type="text/css" />
@@ -42,6 +46,9 @@
     </div>
 
     <div class="container-fluid">
+        <asp:ContentPlaceHolder ID="sideContent" runat="server">
+        
+        </asp:ContentPlaceHolder>
       <div class="row">
         <div class="col-sm-3 col-md-2 sidebar">
           <ul class="nav nav-sidebar">
@@ -63,7 +70,7 @@
             <li><a href="">Another nav item</a></li>
           </ul>
         </div>
-        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        <asp:ContentPlaceHolder ID="mainContent" runat="server">
         
         </asp:ContentPlaceHolder>
           </div>
