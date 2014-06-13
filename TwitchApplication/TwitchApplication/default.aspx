@@ -83,5 +83,33 @@
             </div>
         </div>
     </div>
+    <div class="top-games">
+        <div class="top-games-inner">
+        <a href="#">
+            <img src="../assets/img/games/leagueoflegends.jpg" alt="game"/>
+        </a>
+        <a href="#">
+            <img src="../assets/img/games/leagueoflegends.jpg" alt="game"/>
+        </a>
+        <a href="#">
+            <img src="../assets/img/games/leagueoflegends.jpg" alt="game"/>
+        </a>
+        <a href="#">
+            <img src="../assets/img/games/leagueoflegends.jpg" alt="game"/>
+        </a>
+        <a href="#">
+            <img src="../assets/img/games/leagueoflegends.jpg" alt="game"/>
+        </a>
+        <a href="#">
+            <img src="../assets/img/games/leagueoflegends.jpg" alt="game"/>
+        </a>
+            <a href="#">
+            <img src="../assets/img/games/leagueoflegends.jpg" alt="game"/>
+        </a>
+        <a href="#">
+            <img src="../assets/img/games/leagueoflegends.jpg" alt="game"/>
+        </a>
+       </div>
+    </div>
 </asp:Content>
 

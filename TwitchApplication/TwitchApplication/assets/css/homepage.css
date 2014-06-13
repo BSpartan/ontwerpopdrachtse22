@@ -1,6 +1,5 @@
 ﻿.planned-channels {
     background: none repeat scroll 0 0 gainsboro;
-    overflow: hidden;
     position: relative;
 }
 
@@ -73,4 +72,33 @@
 .login-pannel p 
 {
     padding: 15px;
+}
+
+.top-games 
+{
+    background: none repeat scroll 0 0 gainsboro;
+    position: relative;
+    margin-top: 25px;
+}
+
+.top-games-inner 
+{
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+
+.top-games-inner a 
+{
+    background-color: orange;
+    float: left;
+    height: 160px;
+    width: 180px;
+    margin-right: 5px;
+}
+
+.top-games-inner img
+{
+    width: 180px;
+    height: 145px;
 }
