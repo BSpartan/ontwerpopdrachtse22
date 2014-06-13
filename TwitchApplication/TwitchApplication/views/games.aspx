@@ -13,7 +13,7 @@
           %>
           <div class="row placeholders">
             <div class="col-xs-6 col-sm-3 placeholder">
-              <a class="game-image" href="game1.aspx"><img src="assets/img/games/leagueoflegends.jpg" class="img-responsive" alt="Generic placeholder thumbnail" />
+              <a class="game-image" href="game1.aspx"><img src="../assets/img/games/leagueoflegends.jpg" class="img-responsive" alt="Generic placeholder thumbnail" />
               <h4>League of legends</h4>
               <span class="text-muted">40.200 views</span>
               </a>

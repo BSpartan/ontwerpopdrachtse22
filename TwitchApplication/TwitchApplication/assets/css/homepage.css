@@ -1,6 +1,33 @@
-﻿.planned-channels {
+﻿a:visited,
+a:link 
+{
+    color: #333;
+}
+
+body
+{
+    background-color: #e9e8e8;
+}
+
+#dialog-login 
+{
+    //position: absolute;
+    visibility: hidden;
+}
+
+#dialog-signup 
+{
+    visibility: hidden;
+}
+
+.planned-channels {
     background: none repeat scroll 0 0 gainsboro;
     position: relative;
+    height: 475px;
+}
+
+.planned-channels img {
+    position: absolute;
 }
 
 .planned-channels-inner {
@@ -18,16 +45,43 @@
 {
     float: left;
     width: 600px;
-    height: 400px;
-    background-color: blue;
+    height: 380px;
+}
+
+.planned-channels-mainchannel-left iframe
+{
+    margin-top: 40px;
+    margin-left: 20px;
 }
 
 .planned-channels-mainchannel-right
 {
     float: left;
     width: 298px;
-    height: 400px;
-    background-color: red;
+    height: 380px;
+}
+
+.planned-channels-mainchannel-right img
+{
+    float: left;
+    position: relative;
+    border: 1px solid black;
+    height: 45px;
+    width: 45px;
+    margin-right: 5px;
+}
+
+.planned-channels-mainchannel-right a,
+.planned-channels-mainchannel-right span
+{
+    float: left;
+}
+
+.planned-channels-mainchannel-right p
+{
+    padding-right: 10px;
+    height: 200px;
+    overflow: hidden;
 }
 
 .planned-channels-allchannels
@@ -42,7 +96,12 @@
     width: 133px;
     margin-right: 20px;
     height: 75px;
-    background-color: green;
+}
+
+.planned-channels-allchannels img
+{
+    width: 133px;
+    height: 75px;
 }
 
 .login-pannel 
@@ -78,7 +137,9 @@
 {
     background: none repeat scroll 0 0 gainsboro;
     position: relative;
-    margin-top: 25px;
+    height: 550px;
+    margin-top: 50px;
+    padding-top: 5px;
 }
 
 .top-games-inner 
@@ -90,15 +151,56 @@
 
 .top-games-inner a 
 {
-    background-color: orange;
     float: left;
-    height: 160px;
-    width: 180px;
-    margin-right: 5px;
+    height: 230px;
+    width: 140px;
+    margin-right: 12px;
+    margin-bottom: 10px;
+}
+
+.top-games-inner span
+{
+    font-size: 12px;
 }
 
 .top-games-inner img
 {
-    width: 180px;
-    height: 145px;
+    width: 140px;
+    height: 195px;
+}
+
+.top-channels 
+{
+    background: none repeat scroll 0 0 gainsboro;
+    position: relative;
+    height: 550px;
+    margin-top: 50px;
+    padding-top: 5px;
+}
+
+.top-channels-inner 
+{
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+
+.top-channels-inner a 
+{
+    float: left;
+    height: 185px;
+    width: 210px;
+    margin-right: 12px;
+    margin-bottom: 10px;
+}
+
+.top-channels-inner span
+{
+    font-size: 12px;
+}
+
+.top-channels-inner img
+{
+    width: 210px;
+    height: 150px;
 }

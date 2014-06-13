@@ -13,6 +13,15 @@ namespace TwitchApplication {
     public partial class master {
         
         /// <summary>
+        /// frontPageTitle control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.ContentPlaceHolder frontPageTitle;
+        
+        /// <summary>
         /// frontPageContent control.
         /// </summary>
         /// <remarks>
@@ -20,5 +29,14 @@ namespace TwitchApplication {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.ContentPlaceHolder frontPageContent;
+        
+        /// <summary>
+        /// frontPageScripts control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.ContentPlaceHolder frontPageScripts;
     }
 }

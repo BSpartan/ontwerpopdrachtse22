@@ -65,14 +65,44 @@
     <Content Include="assets\css\bootstrap.min.css" />
     <Content Include="assets\css\dashboard.css" />
     <Content Include="assets\css\homepage.css" />
+    <Content Include="assets\css\images\animated-overlay.gif" />
+    <Content Include="assets\css\images\ui-bg_diagonals-thick_18_b81900_40x40.png" />
+    <Content Include="assets\css\images\ui-bg_diagonals-thick_20_666666_40x40.png" />
+    <Content Include="assets\css\images\ui-bg_flat_10_000000_40x100.png" />
+    <Content Include="assets\css\images\ui-bg_glass_100_f6f6f6_1x400.png" />
+    <Content Include="assets\css\images\ui-bg_glass_100_fdf5ce_1x400.png" />
+    <Content Include="assets\css\images\ui-bg_glass_65_ffffff_1x400.png" />
+    <Content Include="assets\css\images\ui-bg_gloss-wave_35_f6a828_500x100.png" />
+    <Content Include="assets\css\images\ui-bg_highlight-soft_100_eeeeee_1x100.png" />
+    <Content Include="assets\css\images\ui-bg_highlight-soft_75_ffe45c_1x100.png" />
+    <Content Include="assets\css\images\ui-icons_222222_256x240.png" />
+    <Content Include="assets\css\images\ui-icons_228ef1_256x240.png" />
+    <Content Include="assets\css\images\ui-icons_ef8c08_256x240.png" />
+    <Content Include="assets\css\images\ui-icons_ffd27a_256x240.png" />
+    <Content Include="assets\css\images\ui-icons_ffffff_256x240.png" />
+    <Content Include="assets\css\jquery-ui-1.10.4.custom.min.css" />
     <Content Include="assets\fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="assets\img\background_art.jpg" />
+    <Content Include="assets\img\channels\user01.png" />
+    <Content Include="assets\img\games\dota2.png" />
+    <Content Include="assets\img\games\heartstone.jpg" />
+    <Content Include="assets\img\games\leagueoflegends.jpg" />
+    <Content Include="assets\img\games\watchdogs.jpg" />
+    <Content Include="assets\img\game_bg_mask.png" />
+    <Content Include="assets\img\users\user01.png" />
     <Content Include="assets\js\bootstrap.min.js" />
+    <Content Include="assets\js\dialogs.js" />
+    <Content Include="assets\js\homepage.js" />
     <Content Include="assets\js\jquery-2.1.1.min.js" />
+    <Content Include="assets\js\jquery-ui-1.10.4.custom.min.js" />
     <Content Include="default.aspx" />
     <Content Include="views\games.aspx" />
-    <Content Include="Web.config" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
+      <SubType>Designer</SubType>
     </Content>
     <Content Include="Web.Release.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -119,9 +149,7 @@
       <Name>BusinessObjectLayer</Name>
     </ProjectReference>
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="assets\img\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <None Include="assets\fonts\glyphicons-halflings-regular.eot" />
     <None Include="assets\fonts\glyphicons-halflings-regular.ttf" />
