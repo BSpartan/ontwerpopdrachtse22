@@ -22,24 +22,7 @@
 
 </head>
 <body>
-    <div id="dialog-login" title="Login">
-        <p>Om in te loggen vult u hieronder uw inlognaam en wachtwoord in en drukt u op de knop. 
-        Als u nog geen account heeft kunt u die een aanmaken door op de knop te drukken.</p>
-
-            <div class="input-group input-group-sm">
-                <span class="input-group-addon"></span>
-                <input type="text" class="form-control" placeholder="Inlognaam">
-            </div>
-
-            <br />
-
-            <div class="input-group input-group-sm">
-                <span class="input-group-addon"></span>
-                <input type="password" class="form-control" placeholder="Wachtwoord">
-            </div>
-    </div>
-
-    <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+     <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
       <div class="container-fluid">
         <div class="navbar-header">
           <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
@@ -53,8 +36,10 @@
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav navbar-right">
             <li><a href="/views/games.aspx">Browse</a></li>
-            <li><a href="javascript:void(0)" id="login">Log In</a></li>
-            <li><a href="javascript:void(0)" id="signup">Sign up</a></li>
+                <li><a href="javascript:void(0)" id="userName" runat="server">Log In</a></li>
+                <li><a href="/views/follows.aspx" id="Follows" runat="server">Sign up</a></li>
+                <li><a href="javascript:void(0)" id="login" runat="server">Log In</a></li>
+                <li><a href="javascript:void(0)" id="signup" runat="server">Sign up</a></li>
             <li><a></a></li>
           </ul>
           <form class="navbar-form navbar-right">
@@ -74,4 +59,24 @@
     <asp:ContentPlaceHolder ID="frontPageScripts" runat="server">
         
     </asp:ContentPlaceHolder>
+
+     <div id="dialog-login" title="Login">
+         <form>
+        <p>Om in te loggen vult u hieronder uw inlognaam en wachtwoord in en drukt u op de knop. 
+        Als u nog geen account heeft kunt u die een aanmaken door op de knop te drukken.</p>
+
+            <div class="input-group input-group-sm">
+                <span class="input-group-addon"></span>
+                <input id="loginUserName" type="text" class="form-control" placeholder="Inlognaam">
+            </div>
+
+            <br />
+
+            <div class="input-group input-group-sm">
+                <span class="input-group-addon"></span>
+                <input if="loginPassWord" type="password" class="form-control" placeholder="Wachtwoord">
+            </div>
+
+          </form>
+    </div>
 </html>

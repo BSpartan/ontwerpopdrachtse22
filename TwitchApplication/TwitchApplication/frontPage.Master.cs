@@ -11,7 +11,11 @@ namespace TwitchApplication
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            if (Request.HttpMethod.ToString() == "POST") 
+            {
+                Request.Form["username"];
+                Request.Form["password"];
+            }
         }
     }
 }
