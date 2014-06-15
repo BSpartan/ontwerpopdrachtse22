@@ -16,13 +16,3 @@ E:\Dropbox\Project\C#\TwitchApplication\TwitchApplication\bin\BusinessObjectLaye
 E:\Dropbox\Project\C#\TwitchApplication\TwitchApplication\obj\Release\TwitchApplication.csprojResolveAssemblyReference.cache
 E:\Dropbox\Project\C#\TwitchApplication\TwitchApplication\obj\Release\TwitchApplication.dll
 E:\Dropbox\Project\C#\TwitchApplication\TwitchApplication\obj\Release\TwitchApplication.pdb
-C:\Users\Bjork\Documents\GitHub\ontwerpopdrachtse22\TwitchApplication\TwitchApplication\bin\TwitchApplication.dll.config
-C:\Users\Bjork\Documents\GitHub\ontwerpopdrachtse22\TwitchApplication\TwitchApplication\bin\TwitchApplication.dll
-C:\Users\Bjork\Documents\GitHub\ontwerpopdrachtse22\TwitchApplication\TwitchApplication\bin\TwitchApplication.pdb
-C:\Users\Bjork\Documents\GitHub\ontwerpopdrachtse22\TwitchApplication\TwitchApplication\bin\BusinessLogicLayer.dll
-C:\Users\Bjork\Documents\GitHub\ontwerpopdrachtse22\TwitchApplication\TwitchApplication\bin\BusinessObjectLayer.dll
-C:\Users\Bjork\Documents\GitHub\ontwerpopdrachtse22\TwitchApplication\TwitchApplication\bin\BusinessLogicLayer.pdb
-C:\Users\Bjork\Documents\GitHub\ontwerpopdrachtse22\TwitchApplication\TwitchApplication\bin\BusinessObjectLayer.pdb
-C:\Users\Bjork\Documents\GitHub\ontwerpopdrachtse22\TwitchApplication\TwitchApplication\obj\Release\TwitchApplication.csprojResolveAssemblyReference.cache
-C:\Users\Bjork\Documents\GitHub\ontwerpopdrachtse22\TwitchApplication\TwitchApplication\obj\Release\TwitchApplication.dll
-C:\Users\Bjork\Documents\GitHub\ontwerpopdrachtse22\TwitchApplication\TwitchApplication\obj\Release\TwitchApplication.pdb

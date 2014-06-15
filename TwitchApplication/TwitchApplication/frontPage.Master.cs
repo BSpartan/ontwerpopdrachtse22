@@ -1,4 +1,5 @@
-﻿using System;
+﻿using BusinessObjectLayer;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -13,8 +14,12 @@ namespace TwitchApplication
         {
             if (Request.HttpMethod.ToString() == "POST") 
             {
-                Request.Form["username"];
-                Request.Form["password"];
+                string username = Request.Form["username"];
+                string password = Request.Form["password"];
+
+                //User user;
+               // user = user.CheckUserInfo(username, password);
+                
             }
         }
     }

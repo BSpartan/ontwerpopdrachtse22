@@ -12,10 +12,3 @@ E:\Dropbox\Project\C#\TwitchApplication\BusinessLogicLayer\bin\Release\BusinessO
 E:\Dropbox\Project\C#\TwitchApplication\BusinessLogicLayer\obj\Release\BusinessLogicLayer.csprojResolveAssemblyReference.cache
 E:\Dropbox\Project\C#\TwitchApplication\BusinessLogicLayer\obj\Release\BusinessLogicLayer.dll
 E:\Dropbox\Project\C#\TwitchApplication\BusinessLogicLayer\obj\Release\BusinessLogicLayer.pdb
-C:\Users\Bjork\Documents\GitHub\ontwerpopdrachtse22\TwitchApplication\BusinessLogicLayer\bin\Release\BusinessLogicLayer.dll
-C:\Users\Bjork\Documents\GitHub\ontwerpopdrachtse22\TwitchApplication\BusinessLogicLayer\bin\Release\BusinessLogicLayer.pdb
-C:\Users\Bjork\Documents\GitHub\ontwerpopdrachtse22\TwitchApplication\BusinessLogicLayer\bin\Release\BusinessObjectLayer.dll
-C:\Users\Bjork\Documents\GitHub\ontwerpopdrachtse22\TwitchApplication\BusinessLogicLayer\bin\Release\BusinessObjectLayer.pdb
-C:\Users\Bjork\Documents\GitHub\ontwerpopdrachtse22\TwitchApplication\BusinessLogicLayer\obj\Release\BusinessLogicLayer.csprojResolveAssemblyReference.cache
-C:\Users\Bjork\Documents\GitHub\ontwerpopdrachtse22\TwitchApplication\BusinessLogicLayer\obj\Release\BusinessLogicLayer.dll
-C:\Users\Bjork\Documents\GitHub\ontwerpopdrachtse22\TwitchApplication\BusinessLogicLayer\obj\Release\BusinessLogicLayer.pdb

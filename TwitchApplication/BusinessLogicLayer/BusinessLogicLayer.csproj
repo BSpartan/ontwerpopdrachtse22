@@ -48,6 +48,10 @@
       <Project>{67DB89A8-C008-4A88-B313-13BC15905596}</Project>
       <Name>BusinessObjectLayer</Name>
     </ProjectReference>
+    <ProjectReference Include="..\DataAccessLayer\DataAccessLayer.csproj">
+      <Project>{c7552799-56f4-454d-a68b-54e3d8aa7678}</Project>
+      <Name>DataAccessLayer</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
